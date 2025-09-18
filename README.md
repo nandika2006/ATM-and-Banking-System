@@ -1,4 +1,4 @@
-![communication diagram](https://github.com/user-attachments/assets/8bdfd2ed-94eb-428a-a883-a7ca51c0305a)# ATM-AND-BANKING-SYSTEM
+# ATM-AND-BANKING-SYSTEM
 # Reg No:212224230175
 # Name:Nandika S
 # Date:18.09.2025
